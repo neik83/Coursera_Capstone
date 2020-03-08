@@ -8,7 +8,7 @@ Most of the economic and social activities are taking place in the urban area of
 -	Where to open the first restaurant/shop
 -	Where will be the next locations after the first successful one?
 
-Population density by district might be a good answer to the first question while location similarity in terms of popular venues can help answer the second one. In this capstone project, I will try to collect analyze and visualize public data found on the internet using maps, charts and clustering technique as well as utilizing Foursquare API to help the investors make right decision. 
+Population density by district might be a good answer to the first question while location similarity in terms of popular venues can help answer the second one. In this capstone project, I will try to collect, analyze and visualize public data found on the internet using maps, charts and clustering technique as well as utilizing Foursquare API to help the investors make right decision. 
 
 ## 2.	Description of the data 
 
