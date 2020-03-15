@@ -14,10 +14,10 @@ Population density by district might be a good answer to the first question whil
 
 The following data will be used in this project: 
 -	The third level administrative map of Vietnam that we can use to get coordinates of all the districts and wards in Hanoi. This will be used for creating population density map: https://gadm.org/download_country_v3.html
-![Shapefile](https://github.com/neik83/Coursera_Capstone/blob/master/Spatialdat.png)
+![Shapefile](https://github.com/neik83/Coursera_Capstone/blob/master/Images/Spatialdat.png)
 -	This site provides list of all districts and wards within districts in Vietnam from that we can extract the sub-list for Hanoi: https://www.gso.gov.vn/dmhc2015/
-![Administrative Units](https://github.com/neik83/Coursera_Capstone/blob/master/AdmUnits.png)
+![Administrative Units](https://github.com/neik83/Coursera_Capstone/blob/master/Images/AdmUnits.png)
 -	Area and population of each district will be collected from this site:  
 http://thongkehanoi.gov.vn/a/nien-giam-thong-ke-2018-1579246334/
-![Area and Population](https://github.com/neik83/Coursera_Capstone/blob/master/Stats.png)
+![Area and Population](https://github.com/neik83/Coursera_Capstone/blob/master/Images/Stats.png)
 -	Last but not least, Foursquare API will be used to get most common venues for clustering the wards in the urban area of Hanoi.
